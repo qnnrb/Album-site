@@ -1,0 +1,25 @@
+<main class="site-content">
+    <section id="album-list">
+        {{#each album}}
+        <div class="album-box">
+            <div class="box-content">
+                <div class="box-image-container">
+                    <img src="{{url}}" alt="{{title}}">
+                </div>
+
+                <div class="album-info-container">
+                    <div class="album-name">
+                        <a href= "/artist/{{trimmedArtist}}/{{trimmedTitle}}">{{title}}</a>
+                    </div>
+                    <div class="album-artist-name">
+                        <a href="/artist/{{trimmedArtist}}">{{artist}}</a>
+                    </div>
+                    <div class="album-year">
+                        {{year}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{/each}}
+    </section>
+</main>

@@ -1,0 +1,49 @@
+<!-- modal to add an album to addartist page before submitting -->
+<div> 
+    <div class="add-album">
+    <button id="add-album-button" class="action-button">Add Album</button>
+</div>
+
+        <div id="modal-backdrop" class="hidden"></div>
+        <div id="add-post-modal" class="hidden">
+            <div class="modal-dialog"> 
+                <div class="modal-header"> 
+                    <h3>Add Album</h3>
+                    <button type="button" id="modal-close" class="close-button">&times;</button>
+                </div>
+
+                <div class="modal-body"> 
+                    <div class="album-input-element"> 
+                        <label class = "album-name-label" for="album-name-input">Album Name</label>
+                        <input type="text" id="album-name-input"></input>
+                    </div>
+
+                    <div class="album-input-element"> 
+                        <label class = "album-cover-label" for="album-cover-input">Album Cover</label>
+                        <input type="text" id="album-cover-input"></input>
+                    </div>
+
+                    <div class="album-input-element">
+                        <label class="album-year-label" for="album-year-input">Year of Release</label>
+                        <input type="text" id="album-year-input"></input>
+                    </div>
+
+                    <div id="tracklist">
+                        <div class="album-input-element">
+                            <label for="album-tracklist-input">Track 1</label>
+                            <input type="text" id="album-tracklist-input"></input>
+                        </div>
+                    </div>
+
+                    <div class="add-track-button">
+                        <button type="button" id="add-track-button" class="action-button">+</button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="modal-footer"> 
+                <button type="button" id="modal-cancel" class="modal-hide-button action-button">Cancel</button>
+                <button type="button" id="modal-accept" class="action-button">Add Album</button>
+            </div>
+        </div>
+

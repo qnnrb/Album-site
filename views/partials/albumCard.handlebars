@@ -1,0 +1,23 @@
+<section class="album-card">
+    <div class="image-container">
+        <img class="album-image" src="{{url}}" alt="{{title}}" />
+    </div>
+    <div class="album-data-container">
+        <div class="album-title">
+            {{title}}
+        </div>
+        <div class="album-artist">
+            {{artist}}
+        </div>
+        <div class="album-year">
+            {{year}}
+        </div>
+    </div>
+    <div class="tracklist">
+        {{#each tracklist}}
+        <div class="song">
+            {{@key}}: {{.}}
+        </div>
+        {{/each}}
+    </div>
+</section>

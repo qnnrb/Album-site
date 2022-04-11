@@ -1,0 +1,812 @@
+{  
+    "tylerthecreator": {
+        "name": "Tyler, The Creator",
+        "trimmedName": "tylerthecreator",
+        "artistImg": "https://th.bing.com/th/id/R.b2ad03e449fc174def540d1989038e41?rik=Ng%2fB%2bln5iNsFvQ&pid=ImgRaw&r=0",
+        "city": "Los Angeles",
+        "albums": [ 
+            { 
+                "title": "CALL ME IF YOU GET LOST",
+                "trimmedTitle": "callmeifyougetlost",
+                "year": "2021",
+                "tracklist": 
+                    {
+                        "1": "SIR BAUDELAIRE (feat. DJ Drama)",
+                        "2": "CORSO",
+                        "3": "LEMONHEAD (feat. 42 DUGG)",
+                        "4": "WUSYANAME (feat. YoungBoy Never Broke Again & Ty Dolla $ign)",
+                        "5": "LUMBERJACK", 
+                        "6": "HOT WIND BLOWS (feat. Lil Wayne)", 
+                        "7": "MASSA", 
+                        "8": "RUNITUP (feat. Teezo Touchdown)", 
+                        "9": "MANIFESTO (feat. Domo Genisis)", 
+                        "10": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+                        "11": "MOMMA TALK", 
+                        "12": "RISE! (feat. DAISY WORLD)", 
+                        "13": "BLESSED",
+                        "14": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)", 
+                        "15": "WILSHIRE", 
+                        "16": "SAFARI"
+                    },
+        
+                "url": "https://th.bing.com/th/id/R.b4590357ef2d6297cc53e957613eb90f?rik=66DSAiyz0VRSkw&riu=http%3a%2f%2fdjhalfpint.com%2fwp-content%2fplugins%2frss-poster%2fcache%2f19b5e_Cover-e1623949888399.jpeg&ehk=FpM4bCY8M447uisjFIT6NwqIlvE%2bE5EJKVusbAc3WdQ%3d&risl=&pid=ImgRaw&r=0"
+            },
+            {
+                "title": "IGOR",
+                "trimmedTitle": "igor",
+                "year": "2019",
+                "tracklist": 
+                    {
+                        "1": "IGOR'S THEME",
+                        "2": "EARFQUAKE",
+                        "3": "I THINK", 
+                        "4": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING", 
+                        "5": "RUNNING OUT OF TIME", 
+                        "6": "NEW MAGIC WAND", 
+                        "7": "A BOY IS A GUN*", 
+                        "8": "PUPPET", 
+                        "9": "WHAT'S GOOD", 
+                        "10": "GONE, GONE / THANK YOU",
+                        "11": "I DON'T LOVE YOU ANYMORE", 
+                        "12": "ARE WE STILL FRIENDS?"
+                    },
+                "url": "https://th.bing.com/th/id/R.46fa42bb485f30f133b63fb031e2821b?rik=M25U4fY9OlEfFw&pid=ImgRaw&r=0&sres=1&sresct=1"
+            },
+            { 
+                "title": "Flower Boy", 
+                "trimmedTitle": "flowerboy",
+                "year": "2017",
+                "tracklist": 
+                    {
+                        "1": "Foreword (feat. Rex Orange County)",
+                        "2": "Where This Flower Blooms (feat. Frank Ocean)", 
+                        "3": "Sometimes...", 
+                        "4": "See You Again (feat. Kali Uchis)", 
+                        "5": "Who Dat Boy (feat. A$AP Rocky)", 
+                        "6": "Pothole (feat. Jaden Smith)", 
+                        "7": "Garden Shed (feat. Estelle)", 
+                        "8": "Boredom (feat. Rex Orange County and Anna of the North)", 
+                        "9": "I Ain't Got Time!", 
+                        "10": "911 / Mr. Lonely (feat. Frank Ocean and Steve Lacy)", 
+                        "11": "Droppin' Seeds (feat. Lil Wayne)", 
+                        "12": "November", 
+                        "13": "Glitter", 
+                        "14": "Enjoy Right Now, Today"
+                    },
+                "url": "https://i2.wp.com/www.xxlmag.com/files/2017/07/100000x100000-999.jpg"
+            },
+            {
+                "title": "Cherry Bomb",
+                "trimmedTitle": "cherrybomb",
+                "year": "2015",
+                "tracklist": 
+                {
+                    "1": "DEATHCAMP (feat. Cole Alexander)", 
+                    "2": "BUFFALO (feat. Shane Powers)", 
+                    "3": "PILOT (feat. Sydney Bennett)", 
+                    "4": "RUN (feat. Chaz Bundick & ScHoolboy Q)", 
+                    "5": "FIND YOUR WINGS (feat. Roy Ayers Ubiquity, Sydney Bennett, & Kali Uchis)", 
+                    "6": "CHERRY BOMB", 
+                    "7": "BLOW MY LOAD (feat. Wanya Morris, Dam-Funk, Austin Feinstein & Sydney Bennett)",
+                    "8": "2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)", 
+                    "9": "THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (REMIX) [feat. ScHoolboy Q]", 
+                    "10": "F*****G YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)", 
+                    "11": "SMUCKERS (feat. Lil Wayne & Kanye West)", 
+                    "12": "KEEP DA O'S (feat. Pharrell Williams & Coco O.)", 
+                    "13": "OKAGA, CA (feat. Alice Smith, Leon Ware & Clem Creevy)"
+                },
+                "url": "https://th.bing.com/th/id/R.150e03317f02f4eb869ae3da49905dfc?rik=8NtI1v3W0e2x6A&pid=ImgRaw&r=0"
+            },
+            {
+                "title": "Wolf",
+                "trimmedTitle": "wolf",
+                "year": "2013",
+                "tracklist": 
+                    {
+                        "1": "Wolf", 
+                        "2": "Jamba (feat. Hodgy)", 
+                        "3": "Cowboy", 
+                        "4": "Awkward", 
+                        "5": "Domo23", 
+                        "6": "Answer", 
+                        "7": "Slater (feat. Frank Ocean)", 
+                        "8": "48", 
+                        "9": "Colossus", 
+                        "10": "PartyIsntOver/Campfire/Bimmer (feat. Frank Ocean & Laetitia Sadier)", 
+                        "11": "Ifhy (feat. Pharrell Williams)", 
+                        "12": "Pigs", 
+                        "13": "Parking Lot (feat. Casey Veggies & Mike G)", 
+                        "14": "Rusty (feat. Domo Genisis & Earl Sweatshirt)", 
+                        "15": "Trashwang (feat. Na' kel, Jasper Dolphin, Lucas, L-Boy, Taco, Left Brain & Lee Spielman)", 
+                        "16": "Treehome95 (feat. Coco O & Erykah Badu)", 
+                        "17": "Tamale", 
+                        "18": "Lone"
+                    },
+                "url": "https://th.bing.com/th/id/R.968d8fb0f2acd3555bb81a2e6cc76f61?rik=UZ6L4HAgXDlyqw&riu=http%3a%2f%2fwww.soulinstereo.com%2fwp-content%2fuploads%2f2013%2f03%2fwolf.jpg&ehk=7N%2fhlyFU1iSE0K5ZLMYx%2bx28rqHeM695Yho8xn0L6tc%3d&risl=&pid=ImgRaw&r=0"
+            },
+            {
+                "title": "Goblin",
+                "trimmedTitle": "goblin",
+                "year": "2011", 
+                "tracklist": 
+                    {
+                        "1": "Goblin", 
+                        "2": "Yonkers", 
+                        "3": "Radicals",
+                        "4": "She (feat. Frank Ocean)", 
+                        "5": "Transylvania", 
+                        "6": "Nightmare", 
+                        "7": "Tron Cat", 
+                        "8": "Her", 
+                        "9": "Sandwitches (feat. Hodgy Beats)", 
+                        "10": "Fish", 
+                        "11": "Analog (feat. Hodgy Beats)", 
+                        "12": "Bitch Suck Dick (feat. Jasper Dolphin & Taco)", 
+                        "13": "Window (feat. Domo Genesis, Frank Ocean, Hodgy Beats & Mike G)", 
+                        "14": "Au79", 
+                        "15": "Golden"
+                    },
+                "url": "https://th.bing.com/th/id/R.3a409994d401bc3fab0bc4fb3736013c?rik=nn7vmre%2f%2fewesw&pid=ImgRaw&r=0&sres=1&sresct=1"
+            }
+        ]
+    }, 
+
+    "kanyewest": {
+        "name": "Kanye West",
+        "trimmedName": "kanyewest",
+        "artistImg": "https://cdn.statically.io/img/www.cheatsheet.com/wp-content/uploads/2021/08/kanye-west-8-1024x681.jpg?x58396",
+        "city": "Chicago",
+        "albums": [ 
+            { 
+                "title": "Donda",
+                "trimmedTitle": "donda",
+                "year": "2021",
+                "tracklist": 
+                    {
+                        "1": "Donda Chant",
+                        "2": "Jail",
+                        "3": "God Breathed",
+                        "4": "Off The Grid",
+                        "5": "Hurricane",
+                        "6": "Praise God",
+                        "7": "Jonah",
+                        "8": "Ok Ok",
+                        "9": "Junya",
+                        "10": "Believe What I Say",
+                        "11": "24",
+                        "12": "Remote Control",
+                        "13": "Moon",
+                        "14": "Heaven and Hell",
+                        "15": "Donda",
+                        "16": "Keep My Spirit Alive",
+                        "17": "Jesus Lord",
+                        "18": "New Again",
+                        "19": "Tell The Vision",
+                        "20": "Lord I Need You",
+                        "21": "Pure Souls",
+                        "22": "Come to Life",
+                        "23": "No Child Left Behind",
+                        "24": "Jail pt 2",
+                        "25": "Ok Ok pt 2",
+                        "26": "Junya pt 2",
+                        "27": "Jesus Lord pt 2"
+                    },
+                "url": "https://th.bing.com/th/id/OIP.4k58FScu2bBpgaSq3gB0nAHaHa?pid=ImgDet&rs=1"
+            },
+
+            {
+                "title": "Jesus Is King",
+                "trimmedTitle": "jesusisking",
+                "year": "2019",
+                "tracklist": 
+                    {
+                        "1": "Every Hour (feat. Sunday Service Choir)", 
+                        "2": "Selah", 
+                        "3": "Follow God", 
+                        "4": "Closed on Sunday", 
+                        "5": "On God", 
+                        "6": "Everything We Need (feat. Ty Dolla $ign & Ant Clemons)", 
+                        "7": "Water (feat. Ant Clemons)", 
+                        "8": "God Is", 
+                        "9": "Hands On (feat. Fred Hammond)", 
+                        "10": "Use This Gospel (feat. Clipse & Kenny Rogers)", 
+                        "11": "Jesus Is Lord"
+                    },
+                "url": "https://th.bing.com/th/id/OIP.88yHPE0w7KdTI8Ei4s4h9AHaHa?pid=ImgDet&rs=1"
+            },
+            {
+                "title": "Ye",
+                "trimmedTitle": "ye",
+                "year": "2018", 
+                "tracklist": 
+                    {
+                        "1": "I Thought About Killing You", 
+                        "2": "Yikes", 
+                        "3": "All Mine", 
+                        "4": "Wouldn't Leave (feat. PARTYNEXTDOOR", 
+                        "5": "No Mistakes", 
+                        "6": "Ghost Town (feat. PARTYNEXTDOOR)", 
+                        "7": "Violent Crimes"
+                    },
+                "url": "https://th.bing.com/th/id/R.2d76d96cf9e045d8993e8793bc23f6d9?rik=bIvzYYHFEbIoOA&pid=ImgRaw&r=0&sres=1&sresct=1"
+            },
+            {
+                "title": "The Life of Pablo",
+                "trimmedTitle": "thelifeofpablo",
+                "year": "2016", 
+                "tracklist": 
+                    { 
+                        "1": "Ultralight Beam",
+                        "2": "Father Stretch My Hands, Pt. 1", 
+                        "3": "Pt. 2", 
+                        "4": "Famous", 
+                        "5": "Feedback", 
+                        "6": "Low Lights", 
+                        "7": "Highlights", 
+                        "8": "Freestyle 4", 
+                        "9": "I Love Kanye", 
+                        "10": "Waves", 
+                        "11": "FML", 
+                        "12": "Real Friends", 
+                        "13": "Wolves", 
+                        "14": "Frank's Track", 
+                        "15": "Siiiiiiiiilver Surffffeeeeer Intermission",
+                        "16": "30 Hours", 
+                        "17": "No More Parties in LA", 
+                        "18": "Facts (Charlie Heat Version)", 
+                        "19": "Fade", 
+                        "20": "Saint Pablo"
+                    },
+                "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/The_life_of_pablo_alternate.jpg"
+            },
+            {
+                "title": "Yeezus",
+                "trimmedTitle": "yeezus",
+                "year": "2013", 
+                "tracklist": 
+                    { 
+                        "1": "On Sight", 
+                        "2": "Black Skinhead", 
+                        "3": "I Am a God (feat. God)", 
+                        "4": "New Slaves", 
+                        "5": "Hold My Liquor", 
+                        "6": "I'm In It", 
+                        "7": "Blood On the Leaves", 
+                        "8": "Guilt Trip",
+                        "9": "Send It Up", 
+                        "10": "Bound 2"
+                    },
+                "url": "https://th.bing.com/th/id/R.4788de54844027461b94c17be654c1c3?rik=A%2bMXixtecmLdtA&riu=http%3a%2f%2fhiphop-n-more.com%2fwp-content%2fuploads%2f2013%2f06%2fyeezus-new-cover.jpg&ehk=8wXzlaWGoVLeCzFh3Be6bzZ%2fE4Sjxo5EB3VmtxrzRhU%3d&risl=&pid=ImgRaw&r=0"
+            },
+            {
+                "title": "My Beautiful Dark Twisted Fantasy",
+                "trimmedTitle": "mybeautifuldarktwistedfantasy",
+                "year": "2010",
+                "tracklist": 
+                    { 
+                        "1": "Dark Fantasy", 
+                        "2": "Gorgeous (feat. Kid Cudi & Raekwon)", 
+                        "3": "Power", 
+                        "4": "All of the Lights (interlude)", 
+                        "5": "All of the Lights", 
+                        "6": "Monster (feat. Jay-Z, Rick Ross, Nicki Minaj, Bon Iver)", 
+                        "7": "So Appalled (feat. Jay-Z, Pusha T, Prynce Cy Hi, Swizz Beatz & RZA)",
+                        "8": "Devil In a New Dress (feat. Rick Ross)", 
+                        "9": "Runaway (feat. Pusha T)", 
+                        "10": "Hell of a Life",
+                        "11": "Blame Game (feat. John Legend)", 
+                        "12": "Lost In the World (feat. Bon Iver)", 
+                        "13": "Who Will Survive In America"
+                    },
+                "url": "https://th.bing.com/th/id/R.c8fd86db282cf6ab9636730de8506d3c?rik=Ck9C1gcz3wZd%2fg&riu=http%3a%2f%2fecx.images-amazon.com%2fimages%2fI%2f91dHRGIV65L._SL1500_.jpg&ehk=j2auXLSgxI8YD7ib%2fztkOVEB4%2b3cmzf3gB1jg5KD1Wc%3d&risl=&pid=ImgRaw&r"
+            },
+            {
+                "title": "808s & Heartbreak",
+                "trimmedTitle": "808sheartbreak",
+                "year": "2008",
+                "tracklist": 
+                    {
+                        "1": "Say You Will", 
+                        "2": "Welcome To Heartbreak (feat. Kid Cudi)", 
+                        "3": "Heartless", 
+                        "4": "Amazing (feat. Young Jeezy)", 
+                        "5": "Love Lockdown", 
+                        "6": "Paranoid (feat. Mr Hudson)", 
+                        "7": "RoboCop", 
+                        "8": "Street Lights", 
+                        "9": "Bad News", 
+                        "10": "See You In My Nightmares (feat. Lil Wayne)", 
+                        "11": "Coldest Winter", 
+                        "12": "Pinocchio Story (Freestyle Live From Singapore)"
+                    },
+                "url": "https://th.bing.com/th/id/R.19ee72a0fb47919e3b1a703308ac752c?rik=8vWcCLQ4cUyQNw&pid=ImgRaw&r=0"
+            },
+            { 
+                "title": "Graduation",
+                "trimmedTitle": "graduation",
+                "year": "2007", 
+                "tracklist": 
+                    { 
+                        "1": "Good Morning", 
+                        "2": "Champion", 
+                        "3": "Stronger", 
+                        "4": "I Wonder", 
+                        "5": "Good Life (feat. T-Pain)", 
+                        "6": "Can't Tell Me Nothing", 
+                        "7": "Barry Bonds (feat. Lil Wayne)", 
+                        "8": "Drunk and Hot Girls (feat. Mos Def)", 
+                        "9": "Flashing Lights (feat. Dwele)", 
+                        "10": "Everything I Am (feat. DJ Premier)", 
+                        "11": "The Glory", 
+                        "12": "Homecoming (feat. Chris Martin)",
+                        "13": "Big Brother", 
+                        "14": "Good Night (Bonus Track) [feat. Mos Def & Al Be Back]"
+                    },
+                "url": "https://th.bing.com/th/id/OIP.972Qlejsg_v6X1gGYMGsLwHaHa?pid=ImgDet&rs=1"
+            },
+    
+            {
+                "title": "Late Registration",
+                "trimmedTitle": "lateregistration",
+                "year": "2005",
+                "tracklist": 
+                    {
+                        "1": "Wake Up Mr. West", 
+                        "2": "Heard 'Em Say (feat. Adam Levine)", 
+                        "3": "Touch the Sky (feat. Lupe Fiasco)", 
+                        "4": "Gold Digger (feat. Jamie Foxx)", 
+                        "5": "Skit #1 (Kanye West/Late Registration)", 
+                        "6": "Drive Slow (feat. Paul Wall & GLC)", 
+                        "7": "My Way Home (feat. Common)", 
+                        "8": "Crack Music (feat. The Game)", 
+                        "9": "Roses", 
+                        "10": "Bring Me Down (feat. Brandy)", 
+                        "11": "Addiction", 
+                        "12": "Skit #2 (Kanye West/Late Registration)", 
+                        "13": "Diamonds From Sierra Leone (feat. JAY Z)", 
+                        "14": "We Major (feat. Nas & Really Doe)", 
+                        "15": "Skit #3 (Kanye West/Late Registration)", 
+                        "16": "Hey Mama", 
+                        "17": "Celebration", 
+                        "18": "Skit #4 (Kanye West/Late Registration)", 
+                        "19": "Gone (feat. Consequence & Cam'ron", 
+                        "20": "**Bonus Track** Diamonds From Sierra Leone",
+                        "21": "Late"
+                    },
+                "url": "https://th.bing.com/th/id/R.b5118e03832982b1c8d8de20d9eac95d?rik=PDWFQBAQFZyCow&riu=http%3a%2f%2f3.bp.blogspot.com%2f-G6kZw6LoDK8%2fUBryvc0AfII%2fAAAAAAAAHsk%2fNGnaS65V53c%2fs640%2fkanye%2bwest%2blate%2bregistration.jpg&ehk=jxDmoLblXzLF%2bAXH9CupHVBSyIIQGMj2S6EaXYXPeK0%3d&risl=&pid=ImgRaw&r=0"
+            },
+
+            {
+                "title": "The College Dropout",
+                "trimmedTitle": "thecollegedropout",
+                "year": "2004",
+                "tracklist": 
+                    {
+                        "1": "Intro",
+                        "2": "We Don't Care",
+                        "3": "Graduation Day",
+                        "4": "All Falls Down (feat. Syleena Johnson)",
+                        "5": "I'll Fly Away",
+                        "6": "Spaceship (feat. GLC & Consequence)", 
+                        "7": "Jesus Walks",
+                        "8": "Never Let Me Down (feat. JAY-Z & J. Ivy)", 
+                        "9": "Get Em High (feat. Talib Kweli & Common)", 
+                        "10": "Workout Plan", 
+                        "11": "The New Workout Plan", 
+                        "12": "Slow Jamz (feat. Jamie Foxx & Twista)", 
+                        "13": "Breathe In Breathe Out (feat. Ludacris)",
+                        "14": "School Spirit Skit 1", 
+                        "15": "School Spirit", 
+                        "16": "School Spirit Skit 2", 
+                        "17": "Lil Jimmy Skit", 
+                        "18": "Two Words (feat. Mos Def, Freeway & The Boys Choir of Harlem)",
+                        "19": "Through the Wire", 
+                        "20": "Family Business", 
+                        "21": "Last Call"
+                    },
+                "url": "https://img.discogs.com/fyhYRy8JePtYQUP31MuWwgO_xg4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6659077-1547384174-8397.jpeg.jpg"
+            }
+        ]
+    },
+
+    "earlsweatshirt": {
+        "name": "Earl Sweatshirt",
+        "trimmedName": "earlsweatshirt",
+        "artistImg": "https://th.bing.com/th/id/R.447cc0eb16cb64d6d4836bce4426f9c7?rik=HuUxP6bMb98fFw&pid=ImgRaw&r=0",
+        "city": "Los Angeles",
+        "albums": [ 
+            {
+                "title": "SICK!",
+                "trimmedTitle": "sick",
+                "year": "2022",
+                "tracklist": 
+                    {
+                        "1": "Old Friend",
+                        "2": "2010",
+                        "3": "Sick!",
+                        "4": "Vision (feat. Zelooperz)",
+                        "5": "Tabula Rosa (feat. Armand Hammer)",
+                        "6": "Lye",
+                        "7": "Lobby (int)",
+                        "8": "God Laughs",  
+                        "9": "Titanic", 
+                        "10": "Fire in the Hole"                  
+                    }, 
+                "url": "https://f4.bcbits.com/img/a1432177219_10.jpg"
+            },
+
+            {
+                "title": "Some Rap Songs",
+                "trimmedTitle": "somerapsongs",
+                "year": "2018",
+                "tracklist": 
+                    {
+                        "1": "Shattered Dreams", 
+                        "2": "Red Water",
+                        "3": "Cold Summers",
+                        "4": "Nowhere2go",
+                        "5": "December 24th",
+                        "6": "Ontheway! (feat. Standing On the Corner",
+                        "7": "The Mint (feat. Navy Blue)",
+                        "8": "The Bends", 
+                        "9": "Loosie", 
+                        "10": "Azucar", 
+                        "11": "Eclipse", 
+                        "12": "Veins", 
+                        "13": "Playing Possum (feat. Cheryl Harris & Keorapetse Kgositsile)", 
+                        "14": "Peanut", 
+                        "15": "Riot!"
+                    }, 
+                "url": "https://cdn.hmv.com/r/w-3280/hmv/files/c7/c7534dc6-d57e-4da3-ad27-f66ebc99452c.637079363470000000.jpg"
+            },
+            {
+                "title": "I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt",
+                "trimmedTitle": "idontlikeshitidontgooutsideanalbumbyearlsweatshirt",
+                "year": "2015", 
+                "tracklist": 
+                { 
+                    "1": "Huey", 
+                    "2": "Mantra",
+                    "3": "Faucet",
+                    "4": "Grief",
+                    "5": "Off Top",
+                    "6": "Grown Ups (feat. Dash)",
+                    "7": "AM // Radio (feat. Wiki)",
+                    "8": "Inside", 
+                    "9": "DNA (feat. Na'kel)",
+                    "10": "Wool (feat. Vince Staples)"
+                },
+                "url": "https://th.bing.com/th/id/R.d2f6ec1985a9e1e115c9c4dce4774705?rik=7S7OFDwVIEbrjg&riu=http%3a%2f%2fblastmagazine.com%2fwp-content%2fuploads%2f2015%2f03%2fI_Dont_Like_Shit_I_Dont_Go_Outside_An_Album_by_Earl_Sweatshirt.jpg&ehk=j71Q63FyLvKnystZ03jlCpdG5HbJzzyRvJMqhEHGCmI%3d&risl=&pid=ImgRaw&r=0"
+            }, 
+            {
+                "title": "Doris",
+                "trimmedTitle": "doris",
+                "year": "2013",
+                "tracklist": {
+                    "1": "Pre (feat. SK Laflare)",
+                    "2": "Burgundy (feat. Vince Staples)", 
+                    "3": "20 Wave Caps (feat. Domo Genesis)", 
+                    "4": "Sunday (feat. Frank Ocean)", 
+                    "5": "Hive (feat. Casey Veggies & Vince Staples)", 
+                    "6": "Chum", 
+                    "7": "Sasquatch (feat. Tyler, The Creator)", 
+                    "8": "Centurion (feat. Vince Staples)", 
+                    "9": "523", 
+                    "10": "Uncle Al", 
+                    "11": "Guild (feat. Mac Miller)", 
+                    "12": "Molasses (feat. RZA)", 
+                    "13": "Whoa (feat. Tyler, The Creator)", 
+                    "14": "Hoarse", 
+                    "15": "Knight (feat. Domo Genesis)"
+                },
+                "url": "https://th.bing.com/th/id/R.4544c39bf17f07d22fad58600953b71b?rik=ZYY7YOa0JQcnBw&riu=http%3a%2f%2fwww.okayplayer.com%2fwp-content%2fuploads%2f2013%2f08%2fearl-sweatshirt-doris.jpeg&ehk=1NKVkBl6FRmpEctKNz2AF1AEdxThpJmus%2ffZ5Pk%2fcrc%3d&risl=&pid=ImgRaw&r=0"
+            }
+        ]
+    },
+
+    "dannybrown": {
+        "name": "Danny Brown",
+        "trimmedName": "dannybrown",
+        "artistImg": "https://th.bing.com/th/id/R.4021d89075e6a7b25767fabbbc652032?rik=0wL5Q2iMLtB42w&pid=ImgRaw&r=0",
+        "city": "Detroit",
+        "albums": [
+            {
+                "title": "uknowwhatimsayin?",
+                "trimmedTitle": "uknowwhatimsayin",
+                "year": "2019",
+                "tracklist": {
+                    "1": "Change Up",
+                    "2": "Theme Song",
+                    "3": "Dirty Laundry",
+                    "4": "3 Tearz (Ft. Run The Jewels)",
+                    "5": "Belly of the Beast (Ft. Obongjayar)",
+                    "6": "Savage Nomad",
+                    "7": "Best Life", 
+                    "8": "uknowwhatimsayin? (Ft. Obongjayar)",
+                    "9": "Negro Spiritual (Ft. JPEGMAFIA)",
+                    "10": "Shine (Ft. Blood Orange)",
+                    "11": "Combat"
+                },
+                "url": "https://th.bing.com/th/id/R.fe88319487755a5ed7e1418958a5b7a0?rik=LiIHGzMeiKCO4w&pid=ImgRaw&r=0"
+            },
+            {
+                "title": "Atrocity Exhibition",
+                "trimmedTitle": "atrocityexhbition",
+                "year": "2016",
+                "tracklist": {
+                    "1": "Downward Spiral",
+                    "2": "Tell Me What I Don't Know",
+                    "3": "Rolling Stone (Ft. Petite Noir)",
+                    "4": "Really Doe (Ft. Ab-Soul, Earl Sweatshirt & Kendrick Lamar",
+                    "5": "Lost",
+                    "6": "Ain't It Funny",
+                    "7": "Golddust",
+                    "8": "White Lines",
+                    "9": "Pneumonia",
+                    "10": "Dance in the Water",
+                    "11": "From the Ground (Ft. Kelela)",
+                    "12": "When it Rain",
+                    "13": "Today",
+                    "14": "Get Hi (Ft. B-Real)",
+                    "15": "Hell for It"
+                },
+                "url": "https://images-na.ssl-images-amazon.com/images/I/71OigHwMuRL._AC_SL1200_.jpg"
+            },
+            {
+                "title": "Old",
+                "trimmedTitle": "old",
+                "year": "2013",
+                "tracklist": {
+                    "1": "Side A (Old)",
+                    "2": "The Return (Ft. Freddie Gibbs)",
+                    "3": "25 Bucks (Ft. Purity Ring)",
+                    "4": "Wonderbread",
+                    "5": "Gremlins",
+                    "6": "Dope Fiend Rental (Ft. ScHoolboy Q)",
+                    "7": "Torture",
+                    "8": "Lonely", 
+                    "9": "Clean Up", 
+                    "10": "Red 2 Go", 
+                    "11": "Side B (Dope Song)",
+                    "12": "Dubstep (Ft. Scrufizzer)",
+                    "13": "Dip",
+                    "14": "Smokin' and Drinkin'",
+                    "15": "Break It (Go)", 
+                    "16": "Handstand", 
+                    "17": "Way Up Here (Ft. Ab-Soul)", 
+                    "18": "Kush Coma (Ft. A$AP Rocky & ZelooperZ)", 
+                    "19": "Float On (Ft. Charli XCX)"
+                },
+                "url": "https://th.bing.com/th/id/OIP.exyyAnwt9AtKtQUJwkOzeAHaHa?pid=ImgDet&rs=1"
+            },
+            {
+                "title": "XXX",
+                "trimmedTitle": "xxx",
+                "year": "2011",
+                "tracklist": {
+                    "1": "XXX",
+                    "2": "Die Like A Rockstar",
+                    "3": "Pac Blood", 
+                    "4": "Radio Song", 
+                    "5": "Lie4", 
+                    "6": "I Will", 
+                    "7": "Bruiser Brigade (Ft. DopeHead)", 
+                    "8": "Detroit 187 (Ft. Chip$ (USA))", 
+                    "9": "Monopoly", 
+                    "10": "Blunt After Blunt", 
+                    "11": "Outer Space", 
+                    "12": "Adderall Admiral", 
+                    "13": "DNA", 
+                    "14": "Nosebleeds", 
+                    "15": "Party All the Time", 
+                    "16": "EWNESW", 
+                    "17": "Fields", 
+                    "18": "Scrap or Die", 
+                    "19": "30"
+                },
+                "url": "https://media.pitchfork.com/photos/5929b09cea9e61561daa6656/1:1/w_600/2393785c.jpg"
+            }
+        ]
+    },
+
+    "theweeknd": {
+        "name": "The Weeknd",
+        "trimmedName": "theweeknd",
+        "artistImg": "https://www.gannett-cdn.com/presto/2020/02/20/PDTF/5031da19-fd11-40a2-bcab-1c66d064ad63-GettyImages-1193431664.jpg?crop=4137,2328,x0,y1200&width=3200&height=1680&fit=bounds",
+        "city": "Toronto",
+        "albums": [
+            {
+                "title": "Dawn FM",
+                "trimmedTitle": "dawnfm",
+                "year": "2022", 
+                "tracklist": {
+                    "1": "Dawn FM",
+                    "2": "Gasoline",
+                    "3": "How Do I Make You Love Me?",
+                    "4": "Take My Breath (Extended Version)", 
+                    "5": "Sacrifice",
+                    "6": "A Tale by Quincy",
+                    "7": "Out of Time",
+                    "8": "Here We Go... Again (Ft. Tyler, The Creator)",
+                    "9": "Best Friends",
+                    "10": "Is There Someone Else?",
+                    "11": "Starry Eyes",
+                    "12": "Every Angel Is Terrifying",
+                    "13": "Don't Break My Heart",
+                    "14": "I Heard You're Married (Ft. Lil Wayne)",
+                    "15": "Less Than Zero",
+                    "16": "Phantom Regret by Jim"
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.genius.com%2Ff15065ef66cd717c267d3f2e37313bc1.1000x1000x1.jpg"
+            },
+            {
+                "title": "After Hours",
+                "trimmedTitle": "afterhours",
+                "year": "2020",
+                "tracklist": {
+                    "1": "Alone Again",
+                    "2": "Too Late",
+                    "3": "Hardest to Love", 
+                    "4": "Scared To Live",
+                    "5": "Snowchild",
+                    "6": "Escape From LA",
+                    "7": "Heartless",
+                    "8": "Faith",
+                    "9": "Blinding Lights",
+                    "10": "In Your Eyes",
+                    "11": "Save Your Tears",
+                    "12": "Repeat After Me (Interlude)",
+                    "13": "After Hours",
+                    "14": "Until I Bleed Out"
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.genius.com%2F9d35a5dff10090e6c1d5e077932cea99.1000x1000x1.jpg"
+            },
+            {
+                "title": "Starboy",
+                "trimmedTitle": "starboy",
+                "year": "2016",
+                "tracklist": {
+                    "1": "Starboy (Ft. Daft Punk)",
+                    "2": "Party Monster",
+                    "3": "False Alarm",
+                    "4": "Reminder", 
+                    "5": "Rockin'",
+                    "6": "Secrets",
+                    "7": "True Colors",
+                    "8": "Stargirl Interlude (Ft. Lana Del Ray)",
+                    "9": "Sidewalks (Ft. Kendrick Lamar)", 
+                    "10": "Six Feet Under", 
+                    "11": "Love to Lay",
+                    "12": "A Lonely Night",
+                    "13": "Attention",
+                    "14": "Ordinary Life",
+                    "15": "Nothing Without You",
+                    "16": "All I Know (Ft. Future)", 
+                    "17": "Die for You", 
+                    "18": "I Feel It Coming (Ft. Daft Punk)" 
+                },
+                "url": "https://th.bing.com/th/id/R.f281562c2c4bd152aea50ec18668c835?rik=ch75TF4zlMYPVg&riu=http%3a%2f%2fthatgrapejuice.net%2fwp-content%2fuploads%2f2016%2f09%2fthe-weekend-starboy-thatgrapejuice.jpg&ehk=UY8ZVSk%2frLCwzkat%2b4DfL476%2fohx0TwePUDW8%2f33FxU%3d&risl=&pid=ImgRaw&r=0"
+            },
+            {
+                "title": "Beauty Behind the Madness",
+                "trimmedTitle": "beautybehindthemadness",
+                "year": "2015",
+                "tracklist": {
+                    "1": "Real Life",
+                    "2": "Losers (Ft. Labrinth)",
+                    "3": "Tell Your Friends", 
+                    "4": "Often", 
+                    "5": "The Hills", 
+                    "6": "Acquainted", 
+                    "7": "Can't Feel My Face", 
+                    "8": "Shameless", 
+                    "9": "Earned It", 
+                    "10": "In the Night", 
+                    "11": "As You Are", 
+                    "12": "Dark Times (ft. Ed Sheeran)", 
+                    "13": "Prisoner (Ft. Lana Del Ray)", 
+                    "14": "Angel"                    
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.genius.com%2F7ca7587cc9411d4c2926a3b5c3f8539a.1000x1000x1.png"
+            },
+            {
+                "title": "Kiss Land",
+                "trimmedTitle": "kissland",
+                "year": "2013",
+                "tracklist": {
+                    "1": "Professional",
+                    "2": "The Town",
+                    "3": "Adaptation",
+                    "4": "Love In The Sky",
+                    "5": "Belong To the World",
+                    "6": "Live For (Ft. Drake)",
+                    "7": "Wanderlust",
+                    "8": "Kiss Land",
+                    "9": "Pretty",
+                    "10": "Tears In The Rain"
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.genius.com%2F04b8cdf90baa93da2cfa5aebe2b05b3c.640x640x1.jpg"
+            },
+            {
+                "title": "Echoes of Silence",
+                "trimmedTitle": "echoesofsilence",
+                "year": "2011",
+                "tracklist": {
+                    "1": "D.D.",
+                    "2": "Montreal",
+                    "3": "Outside",
+                    "4": "XO / The Host",
+                    "5": "Initiation",
+                    "6": "Same Old Song",
+                    "7": "The Fall",
+                    "8": "Next",
+                    "9": "Echoes of Silence"
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.rapgenius.com%2Fdncafws9usq8zvqlzr3k1fwby.1000x1000x1.jpg"
+            },
+            {
+                "title": "Thursday",
+                "trimmedTitle": "thursday",
+                "year": "2011",
+                "tracklist": {
+                    "1": "Lonely Star",
+                    "2": "Life of the Party", 
+                    "3": "Thursday", 
+                    "4": "The Zone (Ft. Drake)", 
+                    "5": "The Birds Pt. 1",
+                    "6": "The Birds Pt. 2", 
+                    "7": "Gone", 
+                    "8": "Rolling Stone",
+                    "9": "Heaven or Las Vegas"
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.rapgenius.com%2Fclepahsbj1yiuf6t2cpw0ef.1000x1000x1.jpg"
+            },
+            {
+                "title": "House of Balloons",
+                "trimmedTitle": "houseofballoons",
+                "year": "2011",
+                "tracklist": {
+                    "1": "High for This",
+                    "2": "What You Need",
+                    "3": "House of Balloons / Glass Table Girls",
+                    "4": "The Morning", 
+                    "5": "Wicked Games", 
+                    "6": "The Party & The After Party",
+                    "7": "Coming Down", 
+                    "8": "Loft Music",
+                    "9": "The Knowing"
+                },
+                "url": "https://t2.genius.com/unsafe/1766x0/https%3A%2F%2Fimages.genius.com%2F08b314c02226076b95355fee2df979ac.1000x1000x1.jpg"
+            }
+        ]
+    },
+
+    "bennythebutcher": {
+        "name": "Benny the Butcher",
+        "trimmedName": "bennythebutcher",
+        "artistImg": "https://th.bing.com/th/id/R.1bdb8acf87ce9bc70189b5efdf598de4?rik=Ql2bQ8xddGA6Sg&pid=ImgRaw&r=0",
+        "city": "Buffalo",
+        "tracklist": [
+            {
+                "title": "Tana Talk 4",
+                "trimmedTitle": "tanatalk4",
+                "year": "2022",
+                "tracklist": {
+                    "1": "Johnny P's Caddy",
+                    "2": "Back 2x (feat. Stove God Cooks)",
+                    "3": "Super Plug",
+                    "4": "Weekend In The Perry's (feat. Boldy James)",
+                    "5": "10 More Commandments (feat. Diddy)",
+                    "6": "Tyson vs. Ali (feat. Conway the Machine)",
+                    "7": "Uncle Bun (feat. 38 Spesh)",
+                    "8": "Thowy's Revenge",
+                    "9": "Billy Joe",
+                    "10": "Guerrero (feat. Westside Gunn)",
+                    "11": "Bust A Brick Nick",
+                    "12": "Mr. Chow Hall"
+                },
+                "url": "https://th.bing.com/th?id=OIF.R9ZjuZRP79rZzJcfM%2fPbBg&pid=ImgDet&rs=1"
+            }
+        ]
+    }
+ } 

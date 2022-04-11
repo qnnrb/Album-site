@@ -1,0 +1,33 @@
+<section id = "add-artist-page"> 
+    <div class="add-artist-dialog">
+        <div class="page-title-container">
+            <h2>Add Artist</h2>
+        </div>
+        <div class="name-city-img-container">
+            <div class="artist-input-element">
+                <label for="artist-name-input">Artist Name</label>
+                <input type="text" id="artist-name-input"></input>
+            </div>
+
+            <div class="artist-input-element">
+                <label for="artist-city-input">Artist City</label>
+                <input type="text" id="artist-city-input"></input>
+            </div>
+
+            <div class="artist-input-element">
+                <label for="artist-img-input">Artist Image</label>
+                <input type="text" id="artist-image-input"></input>
+            </div>
+
+        </div>
+
+        <div class="add-artist-album">
+            {{> addAlbum}}
+        </div>
+
+        <div class="add-artist-footer">
+            <button type="button" id="add-artist-clear" class="action-button">Clear All</button>
+            <button type="button" id="add-artist-accept" class="action-button">Submit</button>
+        </div>
+    </div>
+</section>

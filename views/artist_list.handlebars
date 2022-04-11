@@ -1,0 +1,74 @@
+ <main class = "site-content">
+            <aside class="filter-container">
+                <div class="filter-input-container">
+                    <div class="filter-input-element">
+                        <input type="text" name="filter-text" id="filter-text" class="filter-input" placeholder="Search for artist">
+                    </div> 
+                </div>
+                
+                <div class="filter-input-container">
+                    <div class="filter-input-element"> 
+                        <select id="filter-city" class="filter-input" name="filter-city">
+                            <option selected value="">Any</option>
+                            <option>Los Angeles</option>
+                            <option>Chicago</option>
+                            <option>Detroit</option>
+                            <option>Toronto</option>
+                            <option>Buffalo</option>
+                        </select>
+                    </div>
+                </div>
+                <button id="filter-button" class="action-button">Update</button>
+               <!-- <a href="/artist/addartist"><button id="add-artist-button" class="action-button">Add Artist</button></a> -->
+            </aside>
+
+
+<!-- <div class="artist-post" data-name="Tyler, The Creator" data-city="Los Angeles">
+                    <div class="post-content">
+                        <div class="post-image-container">
+                            <img src="https://th.bing.com/th/id/OIP.sq0D5En8F03vVA0ZiQOOQQHaE8?pid=ImgDet&rs=1" alt ="Tyler, The Creator">
+                        </div>
+
+                        <div class= "info-albums-container">
+                            <div class="post-info-container">
+                                <a href="/artist/tyler" class="post-title"> Tyler, The Creator</a> <a href="Los Angeles page" class ="post-city">Los Angeles</a>
+                            </div>
+                            <div class="album-image-container">
+                                <img src= "https://th.bing.com/th/id/R.b4590357ef2d6297cc53e957613eb90f?rik=66DSAiyz0VRSkw&riu=http%3a%2f%2fdjhalfpint.com%2fwp-content%2fplugins%2frss-poster%2fcache%2f19b5e_Cover-e1623949888399.jpeg&ehk=FpM4bCY8M447uisjFIT6NwqIlvE%2bE5EJKVusbAc3WdQ%3d&risl=&pid=ImgRaw&r=0" alt="Call me if you Get Lost">
+                                <img src="https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/hkcs9pgcxaubh9e9sc4c/tyler-the-creator-igor-cover" alt="Igor">
+                                <img src="https://i2.wp.com/www.xxlmag.com/files/2017/07/100000x100000-999.jpg" alt="Flower Boy">
+                                <img src="https://th.bing.com/th/id/OIP.Qn2x-70YRxPOX9isFYI1qwHaHa?pid=ImgDet&rs=1" alt="Cherry Bomb">
+                                <img src="http://assets.rollingstone.com/assets/2013/list/20-best-hip-hop-albums-of-2013-20131217/items/tyler-the-creator-wolf-19691231/139952/_original/1035x1035-tylerthecreator-1800-1386785529.jpg" alt="Wolf">
+                                <img src="https://media.pitchfork.com/photos/5929af065e6ef95969321d2c/1:1/w_600/25958048.jpg" alt="Goblin"> 
+                            </div>
+                        </div>
+                    </div> 
+                </div> -->
+
+            <section id="artists"> 
+                {{#each artists}}
+                <div class="artist-post" data-city="{{city}}">
+                    <div class = "post-content">
+                        <div class="post-image-container">
+                            <img src ="{{artistImg}}" alt="{{name}}">
+                        </div>
+
+                      <section id ="slider">
+                        <div class="info-albums-container">
+                            <div class="post-info-container"> 
+                                <a href="/artist/{{trimmedName}}" class ="post-title">{{name}}</a> <a href="/city/{{city}}" class="post-city">{{city}}</a>
+                            </div>
+                            <div class="album-image-container">
+                                <div class="slide">
+                                    {{#each albums}}
+                                            <a class ="album-img" href="/artist/{{../trimmedName}}/{{trimmedTitle}}"> <img src="{{url}}" alt="{{title}}"> </a>
+                                    {{/each}}
+                                </div>
+                            </div>
+                        </div>
+                      </section>    
+                    </div>
+                </div>
+                {{/each}}
+            </section>
+        </main>

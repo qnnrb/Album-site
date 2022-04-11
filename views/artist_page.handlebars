@@ -1,0 +1,19 @@
+
+<main>
+    <div class="artist-page"> 
+        <div class="artist-picture"> 
+            <img src="{{artistImg}}" alt="{{name}}">
+        </div>
+        <div class="artist-info-container"> 
+            <div class="name-and-city">
+                <div class="artist-name">{{name}}</div>
+                <div class="artist-city">{{city}}</div>
+            </div>
+            <div class="album-photos">
+                {{#each albums}}
+                    {{> albumCard}}
+                {{/each}}
+            </div>
+        </div>
+    </div>
+</main>
